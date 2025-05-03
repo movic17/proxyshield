@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Accordion } from "react-bootstrap";
-import "./FAQ.css"; // Import the CSS file
+import "./faq.css"; // Import the CSS file
 
 const FAQ = () => {
   return (
