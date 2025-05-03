@@ -38,7 +38,7 @@ const Topbar = () => {
 
               <NavDropdown title="Gaming" id="nested-nav-dropdown">
                 <NavDropdown.Item href="/fifa">Proxy for FIFA</NavDropdown.Item>
-                <NavDropdown.Item href="/staem">
+                <NavDropdown.Item href="/steam">
                   Proxy for Steam
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/origin">
