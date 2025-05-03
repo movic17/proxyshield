@@ -1,0 +1,58 @@
+/* Footer Section Styling */
+.footer {
+  background-color: #6200ea;
+  color: white;
+  padding: 40px 0;
+}
+
+.footer-section h5 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.footer-section p {
+  font-size: 1rem;
+  color: #e0e0e0;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #ff9800;
+}
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 24px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);
+  color: #ff9800;
+}
+
+.footer-copy {
+  font-size: 0.9rem;
+  color: #e0e0e0;
+}

@@ -1,0 +1,14 @@
+.pricing-card {
+  transition: transform 0.3s ease-in-out;
+  border: 2px solid transparent;
+}
+
+.pricing-card:hover {
+  transform: scale(1.05);
+  border-color: #007bff;
+}
+
+.toggle-btn-group {
+  display: flex;
+  justify-content: center;
+}

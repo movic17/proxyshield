@@ -1,0 +1,54 @@
+/* Security Section Styling */
+.security-container {
+  padding: 60px 0;
+  background-color: #ffffff;
+}
+
+.security-title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+  color: #6200ea;
+}
+
+.security-card {
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.security-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.icon-custom {
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.text-primary {
+  color: #6200ea !important;
+}
+
+.text-success {
+  color: #03dac6 !important;
+}
+
+.text-warning {
+  color: #ff9800 !important;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #616161;
+}
+
+.card {
+  height: 320px;
+}

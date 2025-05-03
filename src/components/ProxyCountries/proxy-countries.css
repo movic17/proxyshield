@@ -1,0 +1,6 @@
+.proxy:hover {
+  background-color: #6200ea;
+  color: white;
+  transition: color 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
